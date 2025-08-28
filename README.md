@@ -1,3 +1,3 @@
-# Frontend for Code Freelance App
+# Frontend for Code GigConnnect 
 
-This is the UI for code freelance app
+This is the UI for code freelance app GigConnect
